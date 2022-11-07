@@ -1,0 +1,11 @@
+name: LimitedCreative
+main: basprohop\LimitedCreative
+version: 1.0.0
+api: [1.10.0]
+load: STARTUP
+author: basprohop
+description: Allows you to give limited creative to your players!
+permissions:
+    limitedcreative.permission.creative:
+        default: false
+        description: Enables Limited Creative when the player changes gamemode.
