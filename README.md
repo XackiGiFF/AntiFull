@@ -1,4 +1,4 @@
-# AntiFullNew v2.12.3
+# AntiFullNew 3.0.0
 
 ## RU
 AntiFullNew - Плагин, основанный на плагине `LimitedCreative 1.0.0 API 1.10.0` (Автор [basprohop](https://github.com/Bassproshops))
