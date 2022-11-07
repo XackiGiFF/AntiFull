@@ -1,0 +1,11 @@
+name: AntiFull
+main: basprohop\LimitedCreative
+version: 1.0.9
+api: [1.10.0]
+load: STARTUP
+author: xacki14
+description: Ограничение креатива для игроков
+permissions:
+    limitedcreative.permission.creative:
+        default: true
+        description: Включает ограничени креатива при его включении
